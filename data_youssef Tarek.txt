@@ -1,0 +1,44 @@
+=== DAY 1 ===
+Sleep: LOW_SLEEP
+Stress: HIGH_STRESS
+Water: HIGH_INTAKE
+Screen: BAD_ST
+Movement: LOW_STEPS
+Mood: VERY_IRRITABLE
+Focus: VERY_LOW_FOCUS
+Notes: 7
+=== END ===
+
+=== DAY 2 ===
+Sleep: LOW_SLEEP (1.0 hours)
+Stress: HIGH_STRESS (Score: 3.40/5)
+Water: LOW_INTAKE (1.0 liters)
+Screen: GOOD_ST (Productive: 1.0h, Unproductive: 1.0h)
+Movement: LOW_STEPS (1 steps)
+Mood: VERY_IRRITABLE
+Focus: LOW_FOCUS
+Notes: 1
+=== END ===
+
+=== DAY 3 ===
+Sleep: LOW_SLEEP
+Stress: HIGH_STRESS
+Water: LOW_INTAKE
+Screen: GOOD_ST
+Movement: LOW_STEPS
+Mood: VERY_IRRITABLE
+Focus: LOW_FOCUS
+Notes: 1
+=== END ===
+
+=== DAY 4 ===
+Sleep: PERFECT_SLEEP (6.0 hours)
+Stress: MILD_STRESS (Score: 2.60/5)
+Water: HIGH_INTAKE (6.0 liters)
+Screen: BAD_ST (Productive: 4.0h, Unproductive: 9.0h)
+Movement: LOW_STEPS (899 steps)
+Mood: CALM
+Focus: LOW_FOCUS
+Notes: stress
+=== END ===
+

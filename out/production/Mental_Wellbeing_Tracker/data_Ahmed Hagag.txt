@@ -1,0 +1,11 @@
+=== DAY 1 ===
+Sleep: LOW_SLEEP
+Stress: HIGH_STRESS
+Water: LOW_INTAKE
+Screen: GOOD_ST
+Movement: LOW_STEPS
+Mood: VERY_IRRITABLE
+Focus: LOW_FOCUS
+Notes: 1
+=== END ===
+

@@ -1,0 +1,11 @@
+=== DAY 1 ===
+Sleep: PERFECT_SLEEP (10.0 hours)
+Stress: MILD_STRESS (Score: 2.60/5)
+Water: LOW_INTAKE (1.0 liters)
+Screen: BAD_ST (Productive: 2.0h, Unproductive: 8.0h)
+Movement: PERFECT_STEPS (2000 steps)
+Mood: CALM
+Focus: LOW_FOCUS
+Notes: stress
+=== END ===
+
